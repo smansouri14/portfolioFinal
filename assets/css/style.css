@@ -11,30 +11,35 @@
 
 
 body {
-
+font-family: 'Sawarabi Mincho', sans-serif !important;
 }
 
 .navbar{
     background-color: #484b4f !important;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 
 .navbar-brand {
     color: #e8edf4 !important;
     background-color: #484b4f !important;
+    font-family: 'Sawarabi Mincho', sans-serif;
 
 }
 
 .nav-link {
     color: #e8edf4 !important;
+    font-family: 'Sawarabi Mincho', sans-serif;
 
 }
 .nav-item {
     text-align: right !important;
     color: #e8edf4 !important;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 
 #showcase h1{
     margin-bottom: 20px;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 
 #showcase img{
@@ -58,6 +63,7 @@ footer {
     padding: 10px;
     background:#484b4f;
     color: #fff;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 
 #portfolio {
@@ -65,16 +71,19 @@ footer {
     background:#2d394c;
     height: 1100px;
     color: #fff;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 
 .info-right {
     padding-top: 50px;
     text-align: center;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 
 #home {
     text-align: center;
     font-size: 40px;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 
 .landing {
@@ -85,6 +94,7 @@ footer {
     position: absolute;
     margin-left: 40%;
     margin-top: 20%;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 
 .linked {
@@ -95,12 +105,28 @@ footer {
 #showcase {
     padding-top: 100px;
     padding-bottom: 200px;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 
 #button {
     margin-left: 30px;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 
 .btn-secondary {
     background-color:#484b4f !important;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+.showcase-right {
+    font-size: 24px;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+.showcase-left {
+    margin-top: 190px;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
